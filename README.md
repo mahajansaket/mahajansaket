@@ -9,10 +9,6 @@
 <p align="left">
 <a href="https://codepen.io/mahajansaket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mahajansaket" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saketmahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saketmahajan" height="30" width="40" /></a>
-  
-  <a href="https://www.linkedin.com/in/mahajansaket/">
-  <img align="left" alt="Saket Mahajan's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 </p>
 
 
