@@ -1,3 +1,31 @@
+
+<h1 align="center">Hi 👋, I'm Saket Mahajan</h1>
+
+
+![](https://enc2b38a75kd45p.m.pipedream.net)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahajansaket&label=Profile%20views&color=0e75b6&style=flat" alt="mahajansaket" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/mahajansaket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="mahajansaket" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saketmahajan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="saketmahajan" height="30" width="40" /></a>
+  
+  <a href="https://www.linkedin.com/in/mahajansaket/">
+  <img align="left" alt="Saket Mahajan's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahajansaket&show_icons=true&locale=en" alt="mahajansaket" /></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/killMeSak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="killMeSak" /></a></p><br><br>
+
+
+
+<!--
+
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/mahajansaket/">
@@ -6,9 +34,6 @@
 
 ![](https://enc2b38a75kd45p.m.pipedream.net)
 
-![](https://www.buymeacoffee.com/killMeSak)
-
-<!--
 **mahajansaket/mahajansaket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
